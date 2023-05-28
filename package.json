@@ -1,0 +1,12 @@
+{
+  "name": "webscrapingturismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Leandro Ferreira <leandroferreira25@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.34.3"
+  }
+}

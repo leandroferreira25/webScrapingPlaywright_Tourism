@@ -11,7 +11,7 @@ npm init playwright@latest
 
 ```
 
-### Modify index.js constants:
+### Modify constants:
 ```
 const departureCity = 'Buenos Aires';
 const departureCityURL_Param = 'from=BUE';
